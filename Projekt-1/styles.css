@@ -1,0 +1,27 @@
+.tableContainer {
+    height: 55vh;
+}
+
+thead {
+    background-color: lightgrey !important;
+    text-align: center;
+}
+
+tr {
+    text-align: center;
+}
+
+
+.tableInformations {
+    background-color: whitesmoke;
+}
+
+body {
+    background-color: snow;
+}
+
+.error-messages, .error-messages1 {
+    display: none;
+    color: red;
+    text-align: center;
+}
